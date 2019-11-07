@@ -1,7 +1,7 @@
 # EventTriplesExtraction
 &nbsp;&nbsp;EventTriplesExtraction based on dependency parser and semantic role labeling, 基于依存句法与语义角色标注的事件三元组抽取
-&nbsp;&nbsp;文本表示一直是个重要问题，如何以清晰，简介的方式对一个文本信息进行有效表示是个长远的任务  
-   我尝试过使用关键词，实体之间的关联关系，并使用textgrapher的方式进行展示，但以词作为文本信息单元表示这种效果不是特别好，所以，本项目想尝试从事件三元组的方式出发，对文本进行表示．
+&nbsp;&nbsp;  
+   本项目从事件三元组的方式出发，对文本进行表示．
 
 # 使用方式
 
@@ -27,9 +27,3 @@
                  ['部分示威者', '投掷', '石块'],
                  ['驻守边境以军士兵', '发射', '催泪瓦斯']
                  ]
-
-If any question about the project or me ,see https://liuhuanyong.github.io/
-如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，可联系我：    
-1、我的github项目介绍：https://liuhuanyong.github.io  
-2、我的csdn博客：https://blog.csdn.net/lhy2014  
-3、about me:刘焕勇，中国科学院软件研究所，lhy_in_blcu@126.com  
